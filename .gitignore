@@ -1,4 +1,4 @@
 *.txt
 *.hdf5
 python_venv/
-notebooks/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
