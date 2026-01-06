@@ -4,7 +4,7 @@ This is a beginner project analysing gravitational wave data from LIGO.
 
 Using Jupyter I plan to:
 - Load public gravitational wave strain data (DONE)
-- Generate a time-frequency spectrogram to visually identify the merger event (WIP)
+- Generate a time-frequency spectrogram to visually identify the merger event (DONE, the merger event lines up with an observed spike visible on the CQT, but impossible to find on the STFT)
 - Generate a sound file from the data to audibly hear the merger event
 
 ---
